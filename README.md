@@ -9,7 +9,7 @@ This is a project of mine, which makes API requests to Open Library Covers API (
 
 Step 1 - Download the project as a ZIP folder, and unzip it in your local folder
 Step 2 - Setup a local PostgreSQL database server
-* Download the PostgreSQL installer from the official website.
+* Download the PostgreSQL installer from the official website - https://www.postgresql.org/.
 * Follow the installation instructions provided in the installer.
 * Open the PostgreSQL installation folder and start the PostgreSQL service.
 * You can use pgAdmin, a popular PostgreSQL management tool, to interact with the database.
@@ -21,7 +21,7 @@ Step 3 - Setup the .env file
 * In the example .env file switch the example data with your PostgreSQL data
 * More instructions in the .env file
 Step 4 - Setup Node
-* Visit the official Node.js website.
+* Visit the official Node.js website - https://nodejs.org/en.
 * Download the LTS (Long Term Support) version for your operating system.
 * Follow the installation instructions provided by the installer.
 * Use the terminal, and cd into the main folder of this project.
