@@ -18,8 +18,9 @@ Step 2 - Setup a local PostgreSQL database server
 * Create a table to store the API data using the commands in the queries.sql file.
 * To add API data use the https://openlibrary.org/dev/docs/api/covers documentation, and the comments mentioned in the queries.sql file.
 Step 3 - Setup the .env file
-* In the example .env file switch the example data with your PostgreSQL data
-* More instructions in the .env file
+* In the example dotenv.txt file switch the example data with your PostgreSQL data
+* Create a .env file, and insert the data from the dotenv.txt file
+* More instructions in the dotenv.txt file
 Step 4 - Setup Node
 * Visit the official Node.js website - https://nodejs.org/en.
 * Download the LTS (Long Term Support) version for your operating system.

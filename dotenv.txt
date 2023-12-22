@@ -1,0 +1,10 @@
+DB_HOST=localhost
+DB_PORT=5432
+DB_NAME=your_database_name
+DB_USER=your_user_name
+DB_PASSWORD=your_password
+
+your_database_name: The name you gave your database, when creating it
+your_user_name: The username you specified, when installing postgres.
+                By default the username is 'postgres'
+your_password: The password you specified when installing postgres. It is unique for you.
